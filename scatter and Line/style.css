@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  flex-direction: column;
+  max-width: 50vw;
+}
+
+#chart-area {
+  margin-top: 20px;
+}
+
+#chart-header {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-self: flex-end;
+  margin-right: 150px;
+  font-size: large;
+  font-family: sans-serif;
+  color: #777;
+}
+
+.yLabel {
+  transform: rotate(-90deg);
+  text-anchor: middle;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.xLabel {
+  text-anchor: middle;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.line-path {
+  fill: none;
+  stroke: "rgb(255, 20, 12)";
+  stroke-width: 3;
+  stroke-linejoin: round;
+}

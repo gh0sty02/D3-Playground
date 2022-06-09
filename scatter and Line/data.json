@@ -1,0 +1,3424 @@
+[
+  {
+    "users": 47073,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-04"
+  },
+  {
+    "users": 47315,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-05"
+  },
+  {
+    "users": 44262,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-06"
+  },
+  {
+    "users": 21331,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-07"
+  },
+  {
+    "users": 17469,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-08"
+  },
+  {
+    "users": 47082,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-09"
+  },
+  {
+    "users": 50026,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-10"
+  },
+  {
+    "users": 51002,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-11"
+  },
+  {
+    "users": 49792,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-12"
+  },
+  {
+    "users": 45897,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-13"
+  },
+  {
+    "users": 21152,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-14"
+  },
+  {
+    "users": 17522,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-15"
+  },
+  {
+    "users": 47781,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-16"
+  },
+  {
+    "users": 50597,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-17"
+  },
+  {
+    "users": 51928,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-18"
+  },
+  {
+    "users": 50926,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-19"
+  },
+  {
+    "users": 46183,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-20"
+  },
+  {
+    "users": 21784,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-21"
+  },
+  {
+    "users": 17595,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-22"
+  },
+  {
+    "users": 49265,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-23"
+  },
+  {
+    "users": 52228,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-24"
+  },
+  {
+    "users": 51502,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-25"
+  },
+  {
+    "users": 50301,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-26"
+  },
+  {
+    "users": 46620,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-27"
+  },
+  {
+    "users": 21777,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-28"
+  },
+  {
+    "users": 17925,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-29"
+  },
+  {
+    "users": 49165,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-09-30"
+  },
+  {
+    "users": 51885,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-01"
+  },
+  {
+    "users": 52510,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-02"
+  },
+  {
+    "users": 51916,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-03"
+  },
+  {
+    "users": 47052,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-04"
+  },
+  {
+    "users": 21632,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-05"
+  },
+  {
+    "users": 17466,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-06"
+  },
+  {
+    "users": 50086,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-07"
+  },
+  {
+    "users": 52829,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-08"
+  },
+  {
+    "users": 53719,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-09"
+  },
+  {
+    "users": 52855,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-10"
+  },
+  {
+    "users": 48557,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-11"
+  },
+  {
+    "users": 22497,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-12"
+  },
+  {
+    "users": 18486,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-13"
+  },
+  {
+    "users": 50276,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-14"
+  },
+  {
+    "users": 53042,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-15"
+  },
+  {
+    "users": 54588,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-16"
+  },
+  {
+    "users": 53757,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-17"
+  },
+  {
+    "users": 48762,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-18"
+  },
+  {
+    "users": 22274,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-19"
+  },
+  {
+    "users": 18273,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-20"
+  },
+  {
+    "users": 50864,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-21"
+  },
+  {
+    "users": 53266,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-22"
+  },
+  {
+    "users": 53861,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-23"
+  },
+  {
+    "users": 53057,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-24"
+  },
+  {
+    "users": 48506,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-25"
+  },
+  {
+    "users": 21714,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-26"
+  },
+  {
+    "users": 18281,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-27"
+  },
+  {
+    "users": 47600,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-28"
+  },
+  {
+    "users": 49553,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-29"
+  },
+  {
+    "users": 50260,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-30"
+  },
+  {
+    "users": 48755,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-10-31"
+  },
+  {
+    "users": 45895,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-01"
+  },
+  {
+    "users": 22648,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-02"
+  },
+  {
+    "users": 19200,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-03"
+  },
+  {
+    "users": 52236,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-04"
+  },
+  {
+    "users": 54671,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-05"
+  },
+  {
+    "users": 55607,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-06"
+  },
+  {
+    "users": 50588,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-07"
+  },
+  {
+    "users": 46829,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-08"
+  },
+  {
+    "users": 21301,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-09"
+  },
+  {
+    "users": 18800,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-10"
+  },
+  {
+    "users": 49910,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-11"
+  },
+  {
+    "users": 51718,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-12"
+  },
+  {
+    "users": 52962,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-13"
+  },
+  {
+    "users": 52209,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-14"
+  },
+  {
+    "users": 48404,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-15"
+  },
+  {
+    "users": 21011,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-16"
+  },
+  {
+    "users": 18198,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-17"
+  },
+  {
+    "users": 50960,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-18"
+  },
+  {
+    "users": 53350,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-19"
+  },
+  {
+    "users": 54173,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-20"
+  },
+  {
+    "users": 52736,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-21"
+  },
+  {
+    "users": 48956,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-22"
+  },
+  {
+    "users": 22067,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-23"
+  },
+  {
+    "users": 19206,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-24"
+  },
+  {
+    "users": 51855,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-25"
+  },
+  {
+    "users": 54043,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-26"
+  },
+  {
+    "users": 55077,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-27"
+  },
+  {
+    "users": 53981,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-28"
+  },
+  {
+    "users": 49655,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-29"
+  },
+  {
+    "users": 22773,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-11-30"
+  },
+  {
+    "users": 19474,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-01"
+  },
+  {
+    "users": 52956,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-02"
+  },
+  {
+    "users": 55216,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-03"
+  },
+  {
+    "users": 57611,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-04"
+  },
+  {
+    "users": 56017,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-05"
+  },
+  {
+    "users": 51739,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-06"
+  },
+  {
+    "users": 25350,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-07"
+  },
+  {
+    "users": 21028,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-08"
+  },
+  {
+    "users": 55072,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-09"
+  },
+  {
+    "users": 57732,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-10"
+  },
+  {
+    "users": 58915,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-11"
+  },
+  {
+    "users": 57403,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-12"
+  },
+  {
+    "users": 53144,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-13"
+  },
+  {
+    "users": 25639,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-14"
+  },
+  {
+    "users": 19960,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-15"
+  },
+  {
+    "users": 55394,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-16"
+  },
+  {
+    "users": 58049,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-17"
+  },
+  {
+    "users": 57442,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-18"
+  },
+  {
+    "users": 56234,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-19"
+  },
+  {
+    "users": 51065,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-20"
+  },
+  {
+    "users": 24312,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-21"
+  },
+  {
+    "users": 19441,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-22"
+  },
+  {
+    "users": 46309,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-23"
+  },
+  {
+    "users": 45056,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-24"
+  },
+  {
+    "users": 41161,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-25"
+  },
+  {
+    "users": 28197,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-26"
+  },
+  {
+    "users": 12484,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-27"
+  },
+  {
+    "users": 14100,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-28"
+  },
+  {
+    "users": 16004,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-29"
+  },
+  {
+    "users": 17606,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-30"
+  },
+  {
+    "users": 33454,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2020-12-31"
+  },
+  {
+    "users": 34920,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-01"
+  },
+  {
+    "users": 33823,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-02"
+  },
+  {
+    "users": 17365,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-03"
+  },
+  {
+    "users": 19319,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-04"
+  },
+  {
+    "users": 17810,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-05"
+  },
+  {
+    "users": 47754,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-06"
+  },
+  {
+    "users": 48497,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-07"
+  },
+  {
+    "users": 48775,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-08"
+  },
+  {
+    "users": 48055,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-09"
+  },
+  {
+    "users": 45263,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-10"
+  },
+  {
+    "users": 21485,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-11"
+  },
+  {
+    "users": 18623,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-12"
+  },
+  {
+    "users": 48891,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-13"
+  },
+  {
+    "users": 49668,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-14"
+  },
+  {
+    "users": 49839,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-15"
+  },
+  {
+    "users": 48006,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-16"
+  },
+  {
+    "users": 46444,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-17"
+  },
+  {
+    "users": 21154,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-18"
+  },
+  {
+    "users": 19059,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-19"
+  },
+  {
+    "users": 49546,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-20"
+  },
+  {
+    "users": 50286,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-21"
+  },
+  {
+    "users": 50139,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-22"
+  },
+  {
+    "users": 49774,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-23"
+  },
+  {
+    "users": 47748,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-24"
+  },
+  {
+    "users": 22465,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-25"
+  },
+  {
+    "users": 18456,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-26"
+  },
+  {
+    "users": 48972,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-27"
+  },
+  {
+    "users": 50438,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-28"
+  },
+  {
+    "users": 51846,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-29"
+  },
+  {
+    "users": 51212,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-30"
+  },
+  {
+    "users": 48663,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-01-31"
+  },
+  {
+    "users": 21615,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-01"
+  },
+  {
+    "users": 19632,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-02"
+  },
+  {
+    "users": 51525,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-03"
+  },
+  {
+    "users": 51842,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-04"
+  },
+  {
+    "users": 53438,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-05"
+  },
+  {
+    "users": 52477,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-06"
+  },
+  {
+    "users": 49619,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-07"
+  },
+  {
+    "users": 22815,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-08"
+  },
+  {
+    "users": 18709,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-09"
+  },
+  {
+    "users": 48712,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-10"
+  },
+  {
+    "users": 50349,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-11"
+  },
+  {
+    "users": 52486,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-12"
+  },
+  {
+    "users": 51907,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-13"
+  },
+  {
+    "users": 49569,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-14"
+  },
+  {
+    "users": 22759,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-15"
+  },
+  {
+    "users": 18766,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-16"
+  },
+  {
+    "users": 49524,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-17"
+  },
+  {
+    "users": 50826,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-18"
+  },
+  {
+    "users": 51513,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-19"
+  },
+  {
+    "users": 50601,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-20"
+  },
+  {
+    "users": 47681,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-21"
+  },
+  {
+    "users": 23225,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-22"
+  },
+  {
+    "users": 19927,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-23"
+  },
+  {
+    "users": 53405,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-24"
+  },
+  {
+    "users": 55140,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-25"
+  },
+  {
+    "users": 55873,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-26"
+  },
+  {
+    "users": 54855,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-27"
+  },
+  {
+    "users": 52187,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-02-28"
+  },
+  {
+    "users": 24729,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-01"
+  },
+  {
+    "users": 20952,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-02"
+  },
+  {
+    "users": 53961,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-03"
+  },
+  {
+    "users": 56447,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-04"
+  },
+  {
+    "users": 56839,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-05"
+  },
+  {
+    "users": 55871,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-06"
+  },
+  {
+    "users": 52663,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-07"
+  },
+  {
+    "users": 24405,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-08"
+  },
+  {
+    "users": 20890,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-09"
+  },
+  {
+    "users": 55317,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-10"
+  },
+  {
+    "users": 57138,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-11"
+  },
+  {
+    "users": 57242,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-12"
+  },
+  {
+    "users": 56731,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-13"
+  },
+  {
+    "users": 53594,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-14"
+  },
+  {
+    "users": 24454,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-15"
+  },
+  {
+    "users": 20439,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-16"
+  },
+  {
+    "users": 56005,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-17"
+  },
+  {
+    "users": 58500,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-18"
+  },
+  {
+    "users": 58851,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-19"
+  },
+  {
+    "users": 57965,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-20"
+  },
+  {
+    "users": 54469,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-21"
+  },
+  {
+    "users": 25496,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-22"
+  },
+  {
+    "users": 21169,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-23"
+  },
+  {
+    "users": 57288,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-24"
+  },
+  {
+    "users": 59064,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-25"
+  },
+  {
+    "users": 59823,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-26"
+  },
+  {
+    "users": 58614,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-27"
+  },
+  {
+    "users": 54634,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-28"
+  },
+  {
+    "users": 26089,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-29"
+  },
+  {
+    "users": 21262,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-30"
+  },
+  {
+    "users": 57100,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-03-31"
+  },
+  {
+    "users": 59061,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-01"
+  },
+  {
+    "users": 59545,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-02"
+  },
+  {
+    "users": 56302,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-03"
+  },
+  {
+    "users": 23198,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-04"
+  },
+  {
+    "users": 24263,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-05"
+  },
+  {
+    "users": 20230,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-06"
+  },
+  {
+    "users": 21539,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-07"
+  },
+  {
+    "users": 56300,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-08"
+  },
+  {
+    "users": 58883,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-09"
+  },
+  {
+    "users": 58181,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-10"
+  },
+  {
+    "users": 55841,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-11"
+  },
+  {
+    "users": 25437,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-12"
+  },
+  {
+    "users": 22453,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-13"
+  },
+  {
+    "users": 61549,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-14"
+  },
+  {
+    "users": 63395,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-15"
+  },
+  {
+    "users": 64292,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-16"
+  },
+  {
+    "users": 63076,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-17"
+  },
+  {
+    "users": 59219,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-18"
+  },
+  {
+    "users": 29254,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-19"
+  },
+  {
+    "users": 23759,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-20"
+  },
+  {
+    "users": 64256,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-21"
+  },
+  {
+    "users": 67421,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-22"
+  },
+  {
+    "users": 68140,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-23"
+  },
+  {
+    "users": 67344,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-24"
+  },
+  {
+    "users": 62370,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-25"
+  },
+  {
+    "users": 29271,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-26"
+  },
+  {
+    "users": 23973,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-27"
+  },
+  {
+    "users": 65678,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-28"
+  },
+  {
+    "users": 68710,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-29"
+  },
+  {
+    "users": 68918,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-04-30"
+  },
+  {
+    "users": 68246,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-01"
+  },
+  {
+    "users": 62583,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-02"
+  },
+  {
+    "users": 29440,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-03"
+  },
+  {
+    "users": 24093,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-04"
+  },
+  {
+    "users": 24226,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-05"
+  },
+  {
+    "users": 67737,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-06"
+  },
+  {
+    "users": 70196,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-07"
+  },
+  {
+    "users": 69916,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-08"
+  },
+  {
+    "users": 65010,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-09"
+  },
+  {
+    "users": 28509,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-10"
+  },
+  {
+    "users": 24931,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-11"
+  },
+  {
+    "users": 67793,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-12"
+  },
+  {
+    "users": 70525,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-13"
+  },
+  {
+    "users": 70858,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-14"
+  },
+  {
+    "users": 68878,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-15"
+  },
+  {
+    "users": 64547,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-16"
+  },
+  {
+    "users": 29339,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-17"
+  },
+  {
+    "users": 24035,
+    "metric_name": "active_users",
+    "period": "day",
+    "date": "2021-05-18"
+  },
+  {
+    "users": 68497,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-05-19"
+  },
+  {
+    "users": 71951,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-05-20"
+  },
+  {
+    "users": 72306,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-05-21"
+  },
+  {
+    "users": 70547,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-05-22"
+  },
+  {
+    "users": 64244,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-05-23"
+  },
+  {
+    "users": 30741,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-05-24"
+  },
+  {
+    "users": 24895,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-05-25"
+  },
+  {
+    "users": 26238,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-02"
+  },
+  {
+    "users": 63362,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-03"
+  },
+  {
+    "users": 65744,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-04"
+  },
+  {
+    "users": 65860,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-05"
+  },
+  {
+    "users": 60338,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-06"
+  },
+  {
+    "users": 30816,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-07"
+  },
+  {
+    "users": 25674,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-08"
+  },
+  {
+    "users": 69033,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-09"
+  },
+  {
+    "users": 73601,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-10"
+  },
+  {
+    "users": 75003,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-11"
+  },
+  {
+    "users": 73417,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-12"
+  },
+  {
+    "users": 66473,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-13"
+  },
+  {
+    "users": 31691,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-14"
+  },
+  {
+    "users": 26269,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-15"
+  },
+  {
+    "users": 68767,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-16"
+  },
+  {
+    "users": 73332,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-17"
+  },
+  {
+    "users": 74392,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-18"
+  },
+  {
+    "users": 73111,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-19"
+  },
+  {
+    "users": 65624,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-20"
+  },
+  {
+    "users": 30716,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-21"
+  },
+  {
+    "users": 24676,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-22"
+  },
+  {
+    "users": 68701,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-23"
+  },
+  {
+    "users": 73716,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-24"
+  },
+  {
+    "users": 74519,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-25"
+  },
+  {
+    "users": 73244,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-26"
+  },
+  {
+    "users": 65550,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-27"
+  },
+  {
+    "users": 31116,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-28"
+  },
+  {
+    "users": 25102,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-29"
+  },
+  {
+    "users": 69214,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-06-30"
+  },
+  {
+    "users": 72940,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-01"
+  },
+  {
+    "users": 74829,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-02"
+  },
+  {
+    "users": 73700,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-03"
+  },
+  {
+    "users": 65676,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-04"
+  },
+  {
+    "users": 30218,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-05"
+  },
+  {
+    "users": 25060,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-06"
+  },
+  {
+    "users": 46603,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-07"
+  },
+  {
+    "users": 50783,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-08"
+  },
+  {
+    "users": 52811,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-09"
+  },
+  {
+    "users": 52752,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-10"
+  },
+  {
+    "users": 48240,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-11"
+  },
+  {
+    "users": 20173,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-12"
+  },
+  {
+    "users": 17335,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-13"
+  },
+  {
+    "users": 50803,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-14"
+  },
+  {
+    "users": 55445,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-15"
+  },
+  {
+    "users": 56740,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-16"
+  },
+  {
+    "users": 55439,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-17"
+  },
+  {
+    "users": 49447,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-18"
+  },
+  {
+    "users": 20713,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-19"
+  },
+  {
+    "users": 17468,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-20"
+  },
+  {
+    "users": 53381,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-21"
+  },
+  {
+    "users": 56164,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-22"
+  },
+  {
+    "users": 57141,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-23"
+  },
+  {
+    "users": 56499,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-24"
+  },
+  {
+    "users": 50608,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-25"
+  },
+  {
+    "users": 21802,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-26"
+  },
+  {
+    "users": 18303,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-27"
+  },
+  {
+    "users": 54515,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-28"
+  },
+  {
+    "users": 58413,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-29"
+  },
+  {
+    "users": 59242,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-30"
+  },
+  {
+    "users": 58304,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-07-31"
+  },
+  {
+    "users": 51972,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-01"
+  },
+  {
+    "users": 22651,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-02"
+  },
+  {
+    "users": 19301,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-03"
+  },
+  {
+    "users": 55122,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-04"
+  },
+  {
+    "users": 58989,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-05"
+  },
+  {
+    "users": 60006,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-06"
+  },
+  {
+    "users": 58659,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-07"
+  },
+  {
+    "users": 51840,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-08"
+  },
+  {
+    "users": 22856,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-09"
+  },
+  {
+    "users": 18975,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-10"
+  },
+  {
+    "users": 55098,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-11"
+  },
+  {
+    "users": 59172,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-12"
+  },
+  {
+    "users": 60285,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-13"
+  },
+  {
+    "users": 58885,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-14"
+  },
+  {
+    "users": 52113,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-15"
+  },
+  {
+    "users": 22969,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-16"
+  },
+  {
+    "users": 19443,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-17"
+  },
+  {
+    "users": 55750,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-18"
+  },
+  {
+    "users": 61001,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-19"
+  },
+  {
+    "users": 61771,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-20"
+  },
+  {
+    "users": 60020,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-21"
+  },
+  {
+    "users": 53084,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-22"
+  },
+  {
+    "users": 23628,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-23"
+  },
+  {
+    "users": 20103,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-24"
+  },
+  {
+    "users": 57586,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-25"
+  },
+  {
+    "users": 61981,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-26"
+  },
+  {
+    "users": 62782,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-27"
+  },
+  {
+    "users": 61142,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-28"
+  },
+  {
+    "users": 53387,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-29"
+  },
+  {
+    "users": 25692,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-30"
+  },
+  {
+    "users": 23317,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-08-31"
+  },
+  {
+    "users": 24199,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-01"
+  },
+  {
+    "users": 62150,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-02"
+  },
+  {
+    "users": 66203,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-03"
+  },
+  {
+    "users": 66510,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-04"
+  },
+  {
+    "users": 58691,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-05"
+  },
+  {
+    "users": 26531,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-06"
+  },
+  {
+    "users": 22563,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-07"
+  },
+  {
+    "users": 65209,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-08"
+  },
+  {
+    "users": 70146,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-09"
+  },
+  {
+    "users": 71407,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-10"
+  },
+  {
+    "users": 71135,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-11"
+  },
+  {
+    "users": 62454,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-12"
+  },
+  {
+    "users": 26796,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-13"
+  },
+  {
+    "users": 22554,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-14"
+  },
+  {
+    "users": 68719,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-15"
+  },
+  {
+    "users": 73659,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-16"
+  },
+  {
+    "users": 75896,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-17"
+  },
+  {
+    "users": 74440,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-18"
+  },
+  {
+    "users": 64400,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-19"
+  },
+  {
+    "users": 27324,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-20"
+  },
+  {
+    "users": 23103,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-21"
+  },
+  {
+    "users": 71410,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-22"
+  },
+  {
+    "users": 77411,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-23"
+  },
+  {
+    "users": 79311,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-24"
+  },
+  {
+    "users": 77644,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-25"
+  },
+  {
+    "users": 66356,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-26"
+  },
+  {
+    "users": 28656,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-27"
+  },
+  {
+    "users": 24138,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-28"
+  },
+  {
+    "users": 72740,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-29"
+  },
+  {
+    "users": 79396,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-09-30"
+  },
+  {
+    "users": 82091,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-01"
+  },
+  {
+    "users": 81775,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-02"
+  },
+  {
+    "users": 69235,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-03"
+  },
+  {
+    "users": 28477,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-04"
+  },
+  {
+    "users": 25467,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-05"
+  },
+  {
+    "users": 77045,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-06"
+  },
+  {
+    "users": 83385,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-07"
+  },
+  {
+    "users": 85749,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-08"
+  },
+  {
+    "users": 84614,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-09"
+  },
+  {
+    "users": 72261,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-10"
+  },
+  {
+    "users": 30878,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-11"
+  },
+  {
+    "users": 25780,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-12"
+  },
+  {
+    "users": 79095,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-13"
+  },
+  {
+    "users": 86388,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-14"
+  },
+  {
+    "users": 88331,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-15"
+  },
+  {
+    "users": 87522,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-16"
+  },
+  {
+    "users": 73611,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-17"
+  },
+  {
+    "users": 31227,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-18"
+  },
+  {
+    "users": 26402,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-19"
+  },
+  {
+    "users": 80310,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-20"
+  },
+  {
+    "users": 86900,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-21"
+  },
+  {
+    "users": 87928,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-22"
+  },
+  {
+    "users": 87176,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-23"
+  },
+  {
+    "users": 72912,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-24"
+  },
+  {
+    "users": 30888,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-25"
+  },
+  {
+    "users": 25944,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-26"
+  },
+  {
+    "users": 75336,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-27"
+  },
+  {
+    "users": 81302,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-28"
+  },
+  {
+    "users": 82085,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-29"
+  },
+  {
+    "users": 80256,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-30"
+  },
+  {
+    "users": 68470,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-10-31"
+  },
+  {
+    "users": 31730,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-01"
+  },
+  {
+    "users": 26519,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-02"
+  },
+  {
+    "users": 82148,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-03"
+  },
+  {
+    "users": 90456,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-04"
+  },
+  {
+    "users": 91787,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-05"
+  },
+  {
+    "users": 90878,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-06"
+  },
+  {
+    "users": 77326,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-07"
+  },
+  {
+    "users": 33478,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-08"
+  },
+  {
+    "users": 28317,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-09"
+  },
+  {
+    "users": 85719,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-10"
+  },
+  {
+    "users": 93465,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-11"
+  },
+  {
+    "users": 94176,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-12"
+  },
+  {
+    "users": 93193,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-13"
+  },
+  {
+    "users": 77941,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-14"
+  },
+  {
+    "users": 34919,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-15"
+  },
+  {
+    "users": 30610,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-16"
+  },
+  {
+    "users": 86806,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-17"
+  },
+  {
+    "users": 95789,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-18"
+  },
+  {
+    "users": 96584,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-19"
+  },
+  {
+    "users": 94840,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-20"
+  },
+  {
+    "users": 79593,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-21"
+  },
+  {
+    "users": 35309,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-22"
+  },
+  {
+    "users": 29424,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-23"
+  },
+  {
+    "users": 88071,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-24"
+  },
+  {
+    "users": 95394,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-25"
+  },
+  {
+    "users": 96579,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-26"
+  },
+  {
+    "users": 95499,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-27"
+  },
+  {
+    "users": 78572,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-28"
+  },
+  {
+    "users": 33693,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-29"
+  },
+  {
+    "users": 28796,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-11-30"
+  },
+  {
+    "users": 86899,
+    "metric_name": "active-users",
+    "period": "day",
+    "date": "2021-12-01"
+  },
+
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 202914,
+    "date": "2020-01-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 224727,
+    "date": "2020-02-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 240574,
+    "date": "2020-03-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 232912,
+    "date": "2020-04-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 92239,
+    "date": "2020-05-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 98533,
+    "date": "2020-06-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 111683,
+    "date": "2020-07-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 130511,
+    "date": "2020-08-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "month",
+    "users": 142260,
+    "date": "2020-09-01"
+  },
+  {
+    "users": 156346,
+    "metric_name": "active_users",
+    "period": "month",
+    "date": "2020-10-01"
+  },
+  {
+    "users": 159600,
+    "metric_name": "active_users",
+    "period": "month",
+    "date": "2020-11-01"
+  },
+  {
+    "users": 153611,
+    "metric_name": "active_users",
+    "period": "month",
+    "date": "2020-12-01"
+  },
+  {
+    "users": 159521,
+    "metric_name": "active_users",
+    "period": "month",
+    "date": "2021-01-01"
+  },
+  {
+    "users": 140674,
+    "metric_name": "active_users",
+    "period": "month",
+    "date": "2021-02-01"
+  },
+  {
+    "users": 150273,
+    "metric_name": "active_users",
+    "period": "month",
+    "date": "2021-03-01"
+  },
+  {
+    "users": 165089,
+    "metric_name": "active_users",
+    "period": "month",
+    "date": "2021-04-01"
+  },
+  {
+    "users": 182341,
+    "metric_name": "active_users",
+    "period": "month",
+    "date": "2021-05-01"
+  },
+  {
+    "users": 209940,
+    "metric_name": "active-users",
+    "period": "month",
+    "date": "2021-07-01"
+  },
+  {
+    "users": 191220,
+    "metric_name": "active-users",
+    "period": "month",
+    "date": "2021-08-01"
+  },
+  {
+    "users": 172153,
+    "metric_name": "active-users",
+    "period": "month",
+    "date": "2021-09-01"
+  },
+  {
+    "users": 209255,
+    "metric_name": "active-users",
+    "period": "month",
+    "date": "2021-10-01"
+  },
+  {
+    "users": 237038,
+    "metric_name": "active-users",
+    "period": "month",
+    "date": "2021-11-01"
+  },
+  {
+    "users": 256449,
+    "metric_name": "active-users",
+    "period": "month",
+    "date": "2021-12-01"
+  },
+
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 99170,
+    "date": "2020-01-05"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 170577,
+    "date": "2020-01-12"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 179660,
+    "date": "2020-01-19"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 183354,
+    "date": "2020-01-26"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 184960,
+    "date": "2020-02-02"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 187582,
+    "date": "2020-02-09"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 188852,
+    "date": "2020-02-16"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 183880,
+    "date": "2020-02-23"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 192270,
+    "date": "2020-03-01"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 195460,
+    "date": "2020-03-08"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 194346,
+    "date": "2020-03-15"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 167160,
+    "date": "2020-03-22"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 84102,
+    "date": "2020-03-29"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 56795,
+    "date": "2020-04-05"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 57773,
+    "date": "2020-04-12"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 53820,
+    "date": "2020-04-19"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 60598,
+    "date": "2020-04-26"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 61545,
+    "date": "2020-05-03"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 62920,
+    "date": "2020-05-10"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 62533,
+    "date": "2020-05-17"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 66680,
+    "date": "2020-05-24"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 65580,
+    "date": "2020-05-31"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 69621,
+    "date": "2020-06-07"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 71438,
+    "date": "2020-06-14"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 73307,
+    "date": "2020-06-21"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 75723,
+    "date": "2020-06-28"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 77479,
+    "date": "2020-07-05"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 80232,
+    "date": "2020-07-12"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 82503,
+    "date": "2020-07-19"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 84606,
+    "date": "2020-07-26"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 84678,
+    "date": "2020-08-02"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 87715,
+    "date": "2020-08-09"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 86579,
+    "date": "2020-08-16"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 88211,
+    "date": "2020-08-23"
+  },
+  {
+    "metric_name": "active_users",
+    "period": "week",
+    "users": 89172,
+    "date": "2020-08-30"
+  },
+  {
+    "users": 90969,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-09-06"
+  },
+  {
+    "users": 97580,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-09-13"
+  },
+  {
+    "users": 99630,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-09-20"
+  },
+  {
+    "users": 100150,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-09-27"
+  },
+  {
+    "users": 100804,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-10-04"
+  },
+  {
+    "users": 101278,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-10-11"
+  },
+  {
+    "users": 102895,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-10-18"
+  },
+  {
+    "users": 102444,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-10-25"
+  },
+  {
+    "users": 97700,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-11-01"
+  },
+  {
+    "users": 102648,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-11-08"
+  },
+  {
+    "users": 97303,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-11-15"
+  },
+  {
+    "users": 99092,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-11-22"
+  },
+  {
+    "users": 101701,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-11-29"
+  },
+  {
+    "users": 105991,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-12-06"
+  },
+  {
+    "users": 111636,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-12-13"
+  },
+  {
+    "users": 109870,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-12-20"
+  },
+  {
+    "users": 84264,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2020-12-27"
+  },
+  {
+    "users": 65685,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-01-03"
+  },
+  {
+    "users": 90788,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-01-10"
+  },
+  {
+    "users": 92551,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-01-17"
+  },
+  {
+    "users": 94119,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-01-24"
+  },
+  {
+    "users": 96193,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-01-31"
+  },
+  {
+    "users": 98267,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-02-07"
+  },
+  {
+    "users": 97437,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-02-14"
+  },
+  {
+    "users": 97427,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-02-21"
+  },
+  {
+    "users": 104262,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-02-28"
+  },
+  {
+    "users": 106075,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-03-07"
+  },
+  {
+    "users": 108402,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-03-14"
+  },
+  {
+    "users": 111156,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-03-21"
+  },
+  {
+    "users": 112333,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-03-28"
+  },
+  {
+    "users": 110747,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-04-04"
+  },
+  {
+    "users": 106907,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-04-11"
+  },
+  {
+    "users": 120201,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-04-18"
+  },
+  {
+    "users": 127742,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-04-25"
+  },
+  {
+    "users": 129472,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-05-02"
+  },
+  {
+    "users": 127202,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-05-09"
+  },
+  {
+    "users": 131818,
+    "metric_name": "active_users",
+    "period": "week",
+    "date": "2021-05-16"
+  },
+  {
+    "users": 134621,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-05-23"
+  },
+  {
+    "users": 125630,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-06-06"
+  },
+  {
+    "users": 140539,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-06-13"
+  },
+  {
+    "users": 140404,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-06-20"
+  },
+  {
+    "users": 141568,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-06-27"
+  },
+  {
+    "users": 142409,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-07-04"
+  },
+  {
+    "users": 110815,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-07-11"
+  },
+  {
+    "users": 101180,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-07-18"
+  },
+  {
+    "users": 103925,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-07-25"
+  },
+  {
+    "users": 107095,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-08-01"
+  },
+  {
+    "users": 108357,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-08-08"
+  },
+  {
+    "users": 110247,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-08-15"
+  },
+  {
+    "users": 113362,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-08-22"
+  },
+  {
+    "users": 114627,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-08-29"
+  },
+  {
+    "users": 117236,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-09-05"
+  },
+  {
+    "users": 131403,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-09-12"
+  },
+  {
+    "users": 138438,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-09-19"
+  },
+  {
+    "users": 144386,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-09-26"
+  },
+  {
+    "users": 150214,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-10-03"
+  },
+  {
+    "users": 157525,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-10-10"
+  },
+  {
+    "users": 162759,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-10-17"
+  },
+  {
+    "users": 163964,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-10-24"
+  },
+  {
+    "users": 155549,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-10-31"
+  },
+  {
+    "users": 169921,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-11-07"
+  },
+  {
+    "users": 175139,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-11-14"
+  },
+  {
+    "users": 180144,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-11-21"
+  },
+  {
+    "users": 181146,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-11-28"
+  },
+  {
+    "users": 180748,
+    "metric_name": "active-users",
+    "period": "week",
+    "date": "2021-12-05"
+  }
+]
